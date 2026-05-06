@@ -1,0 +1,27 @@
+{
+  "coupleName": "Caca & Reza",
+  "coupleInitials": "C&R",
+  "bridePhoto": "/photos/hero.jpg",
+  "groomPhoto": "/photos/groom.jpg",
+  "weddingDate": "2025-06-28",
+  "weddingTime": "10:00 WIB",
+  "venue": "Grand Ballroom Hotel Mulia, Jakarta",
+  "ourStory": [
+    {
+      "year": "2020",
+      "title": "Pertama Bertemu",
+      "description": "Kami pertama kali bertemu di sebuah acara..."
+    },
+    {
+      "year": "2022",
+      "title": "Mulai Bersama",
+      "description": "Setelah dua tahun persahabatan..."
+    },
+    {
+      "year": "2025",
+      "title": "Lamaran",
+      "description": "Di momen yang tak terlupakan..."
+    }
+  ],
+  "guestName": "Nama Tamu"
+}
